@@ -15,4 +15,6 @@ Para filtrar, informe uma palavra ou caractére na caixa de textos e click "?".
 
 Exemplo: Selecione a lista "Últimos 7 Dias, Todos" e click em uma das ocorrências para ver os detalhes. Click "X" para retornar. Para filtrar os Perigosos por exemplo, informe "!" na caixa de texto e click "?".
 
+NeoAst depende também das bibliotecas GerWeb, veja em: https://github.com/netmoraisap/GerWeb
+
 Dúvidas, sugestões ou críticas, por favor, envie email para: netmoraisap@gmail.com
